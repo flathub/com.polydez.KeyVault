@@ -33,4 +33,4 @@ modules:
       - type: file
         dest-filename: keyvault-linux.zip
         url: https://polydez.com/download/keyvault-linux-v1.5.7.zip
-        sha256: 295ef8e0e53c0019d3dbef55111f99d49ffc2549c08e6482abb4d9dbeb07de3a
+        sha256: 7e70b37465244d8f64542e6d9f89916192a895b9e9c967a2260f2d69dea275c6
